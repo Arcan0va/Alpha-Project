@@ -1,6 +1,6 @@
 # Alpha-Project
 
-## PC only, if the game will be known and appreciated, a mobile version will be considered (Android, iOS, IpadOS)
+### __PC only__, if the game will be known and appreciated, a __mobile version__ will be __considered__ (Android, iOS, IpadOS)
 
 
 
